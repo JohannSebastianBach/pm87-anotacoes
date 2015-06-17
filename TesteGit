@@ -1,0 +1,6 @@
+public class TesteGit{
+
+	public void main(String[] args){
+		system.out.println("teste");
+	}
+}
